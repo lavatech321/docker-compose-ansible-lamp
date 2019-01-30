@@ -1,0 +1,12 @@
+-------Instructions-------
+
+[1] git clone https://
+
+[2] Execute below command -
+# docker-compose up -d
+
+[3] Deploy LAMP server using ansible -
+# ansible-playbook -i inventory playbook1.yml
+
+[4] Open Browser and lookout site -
+http://localhost:4500
