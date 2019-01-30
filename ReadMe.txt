@@ -1,6 +1,7 @@
 -------Instructions-------
 
-[1] git clone https://
+[1] Inside a folder -
+# git clone https://github.com/CXMsanjay/docker-compose-ansible-lamp.git
 
 [2] Execute below command -
 # docker-compose up -d
