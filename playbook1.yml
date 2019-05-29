@@ -4,6 +4,7 @@
     list:
       - mariadb
       - mariadb-server
+      - MySQL-python
   tasks:
     - block:
         - name: "Install epel-release"
